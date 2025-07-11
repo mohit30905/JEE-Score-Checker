@@ -47,3 +47,8 @@ This file helps us calculate the JEE score by comparing the official answer key 
 
 ## ⚠️ Warning
 Enter your name, exam date, and shift exactly as you saved the files, or update the main code accordingly. Otherwise, the program may throw an error due to mismatched file names or incorrect inputs.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project with proper credit.
